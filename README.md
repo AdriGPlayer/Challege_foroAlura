@@ -26,6 +26,8 @@ A continuación, se describen los pasos básicos para configurar y utilizar este
 bashCopy code.
 git clone https://github.com/tu-usuario/Challege_foroAlura.git 
 2.	Configurar la Base de Datos: Primero que nada hay que ejecutar el programa para que cree la base de datos y las tablas, una vez creada la las base de datos se deberá acceder a ella desde su administrador de bases de datos favoritos, acceder a la tabla de usuarios y debes crear un usuario desde insertar:
+
+
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/52c1de51-275f-4156-ac3b-95ff6a552253)
 
 Crea un nombre de usuario de tu preferencia, en mi caso use “Adrian”
