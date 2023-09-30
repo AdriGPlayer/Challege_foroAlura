@@ -30,10 +30,10 @@ git clone https://github.com/tu-usuario/Challenge_foro_alura.git
 
 Crea un nombre de usuario de tu preferencia, en mi caso use “Adrian”
 Para la contraseña deberás usar la pagina https://www.browserling.com/tools/bcrypt
-Para encriptar la contraseña, escribe tu contraseña en el cuadro “Password” y dar click en Bcrypt y copiar el resultado y pegarlo la contraseña de la tabla del usuario que estas creando
+Para encriptar la contraseña, escribe tu contraseña en el cuadro “Password” y dar click en Bcrypt y copiar el resultado y pegarlo la contraseña de la tabla del usuario que estas creando.
 
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/c1e2de71-548d-4b74-8ff9-6af480213c33)
-
+.
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/593e2fc1-909a-41d2-b65e-53b14bce6b21)
 En email puedes poner el de tu preferencia, y en activo deberás ingresar el número 1, asi indicaremos que el usuario esta activo
 
