@@ -1,3 +1,6 @@
+Link de descarga de archivo insomnia para probar API REST
+https://drive.google.com/drive/folders/1nB6DWEVZDOTtw4JdfQ-L8-gLUuPIKgfT?usp=sharing
+
 # Challege_foroAlura
 Este repositorio contiene el código fuente de un proyecto de backend que replica el funcionamiento del Foro Alura. El proyecto se enfoca en la creación de una API REST utilizando el framework Spring. A través de esta API, los usuarios pueden realizar operaciones de creación, lectura, actualización y eliminación de tópicos. Este conjunto de operaciones es comúnmente conocido como CRUD (Create, Read, Update, Delete).
 
