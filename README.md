@@ -30,12 +30,17 @@ git clone https://github.com/tu-usuario/Challege_foroAlura.git
 
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/52c1de51-275f-4156-ac3b-95ff6a552253)
 
+
+
 Crea un nombre de usuario de tu preferencia, en mi caso use “Adrian”
 Para la contraseña deberás usar la pagina https://www.browserling.com/tools/bcrypt
 Para encriptar la contraseña, escribe tu contraseña en el cuadro “Password” y dar click en Bcrypt y copiar el resultado y pegarlo la contraseña de la tabla del usuario que estas creando.
 
+
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/c1e2de71-548d-4b74-8ff9-6af480213c33)
 .
+
+
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/593e2fc1-909a-41d2-b65e-53b14bce6b21)
 En email puedes poner el de tu preferencia, y en activo deberás ingresar el número 1, asi indicaremos que el usuario esta activo.
 
@@ -49,19 +54,32 @@ Ahora vamos a la consulta Login usuario y en el JSON deberás ingresar tu nombre
 Y dar clic en Send, lo que te dara como resultado un token que deberas copiar.
 
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/3cdf4985-da41-4147-aee7-2f2830ba950f)
+
+
 Ese token lo deberas pegar en cada petición que se quiera hacer, en la parte de Auth, Bearer Token y pegar el token en “Token”.
+
+
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/b1a0a1d1-2a19-49e3-9a00-92eca4d1a043)
+
+
 Ahora en JSON podemos crear un curso con el nombre y la categoría.
+
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/b6eda06c-bb58-4c80-a4b8-ef5e72d2ad47)
 
+
 Dar click en botón send y debería aparecer algo asi con el código 201.
+
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/85afd0b9-4d50-4110-a960-da97c35d304b)
 
 Si revisamos la base de datos:
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/792b8e0f-6daa-4eb8-a740-485f045fdad0)
+
 Vamos a listar los cursos en el servidor, si es de tu preferencia puedes crear más cursos.
+
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/37a6b867-096b-48a4-b506-0e279f16d093)
+
 Ahora vamos a crear un tópico en el curso de java.
+
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/9a58ed76-c490-4edf-9bc3-1510c184faca)
 
 Listo si deseas explorar todas las peticiones puedes hacerlo con el mismo prodecimiento, te invitamos a crear una respuesta para un tópico y visualizar los datos con los métodos GET
