@@ -52,34 +52,34 @@ Importarlo en Insomiac y listo.
 
 
 Ahora vamos a la consulta Login usuario y en el JSON deberás ingresar tu nombre de usuario y la contraseña sin encriptar.
-Y dar clic en Send, lo que te dara como resultado un token que deberas copiar 
+Y dar clic en Send, lo que te dara como resultado un token que deberas copiar .
 
 
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/8cb35fc9-76e3-45b8-898f-7a825fb192cb)
 
-Ese token lo deberas pegar en cada petición que se quiera hacer, en la parte de Auth, Bearer Token y pegar el token en “Token”
+Ese token lo deberas pegar en cada petición que se quiera hacer, en la parte de Auth, Bearer Token y pegar el token en “Token”.
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/dcf40285-0002-4dc9-9922-ae72af6893fe)
 
 
-Ahora en JSON podemos crear un curso con el nombre y la categoría
+Ahora en JSON podemos crear un curso con el nombre y la categoría.
 
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/b0c1f4fa-6639-400d-b62b-0c83be60e135)
 
-Dar click en botón send y debería aparecer algo asi con el código 201
+Dar click en botón send y debería aparecer algo asi con el código 201.
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/0f6185b0-ed8d-4af8-b58f-bd6770f9de6f)
 
 
 Si revisamos la base de datos:
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/d8bbb794-c8d8-4112-a48f-2708c346e2a5)
 
-Vamos a listar los cursos en el servidor, si es de tu preferencia puedes crear más cursos
+Vamos a listar los cursos en el servidor, si es de tu preferencia puedes crear más cursos.
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/d14d3909-1a91-4bff-b963-e5617579d460)
 
 
-Ahora vamos a crear un tópico en el curso de java
+Ahora vamos a crear un tópico en el curso de java.
 ![image](https://github.com/AdriGPlayer/Challege_foroAlura/assets/130609122/72ce0b9a-d53c-4c2d-83c3-132d9a85d057)
 
-Listo si deseas explorar todas las peticiones puedes hacerlo con el mismo prodecimiento, te invitamos a crear una respuesta para un tópico y visualizar los datos con los métodos GET
+Listo si deseas explorar todas las peticiones puedes hacerlo con el mismo prodecimiento, te invitamos a crear una respuesta para un tópico y visualizar los datos con los métodos GET.
 
 Contribución
 Si desea contribuir al desarrollo de este proyecto, le invitamos a enviar pull requests y a participar en el proceso de desarrollo.
